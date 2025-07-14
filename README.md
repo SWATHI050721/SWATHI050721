@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there, I'm Swathi!
 
-<!--
-**SWATHI050721/SWATHI050721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE student | 👩‍💻 Java & Python Enthusiast | 🤖 ML & RPA Developer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Selenium, SQL, and Flask
+- 💻 Projects: Skin Cancer Detection, UiPath News Bot, Currency Converter
+- 🔧 Skills: Java, Python, DSA, UiPath, TensorFlow, Git, Postman
+- ✨ Passionate about building smart, scalable solutions using ML + automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me: [linkedin.com/in/swathi-s-9303bb283]|swathis22@karunya.edu.in | swathisivaprakasam05@gmail.com
+linkedin.com/in/swathi-s-9303bb283
+
+
