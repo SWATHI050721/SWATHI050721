@@ -7,7 +7,7 @@
 - 🔧 Skills: Java, Python, DSA, UiPath, TensorFlow, Git, Postman
 - ✨ Passionate about building smart, scalable solutions using ML + automation
 
-📫 Reach me: [linkedin.com/in/swathi-s-9303bb283]|swathis22@karunya.edu.in | swathisivaprakasam05@gmail.com
-linkedin.com/in/swathi-s-9303bb283
+📫 Reach me: www.linkedin.com/in/swathi-s-9303bb283|swathis22@karunya.edu.in | swathisivaprakasam05@gmail.com
+
 
 
